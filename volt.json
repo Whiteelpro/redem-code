@@ -1,1 +1,8 @@
-V9RELEASE
+{
+  "V9RELEASE": {
+    "RewardType": "Giftbux",
+    "RewardValue": 5000,
+    "Active": true
+  },
+  
+}
